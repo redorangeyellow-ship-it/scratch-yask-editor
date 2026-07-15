@@ -1,1 +1,2 @@
-mod
+## Setup
+tun run scratch computer
