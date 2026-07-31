@@ -1,4 +1,4 @@
-import minilog from 'minilog';
+import minilog from 'log';
 minilog.enable();
 
 window.log = minilog('gui');
